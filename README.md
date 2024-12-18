@@ -1,0 +1,3 @@
+Este caderno Jupiter veio a calhar num momento da minha vida que estava estudando muito sobre IA Generativas e não Generativas, abusando da paciência do meu mestre Augusto Nunes, chefe e companheiro de trabalho, que me permitia experimentar, estudar, e trabalhar, tudo ao mesmo tempo TDAH e Bipolar que sou. Todos que ali encontrei, foram parte da seiva que emoldurou meu conhecimentos, todos foram importantes e não cabe dizer o nome para que não esqueça de alguém. 
+Nesta labuta que é a Ciência de Dados, estou lidando sempre com diversas nuances que me tornam cada dia mais capaz. Os Desafios são muitos, mas espero que este caderno @ ajude neste campo tão vasto e fecundo que é a análise e ciência de dados.
+Façam bom proveito!
